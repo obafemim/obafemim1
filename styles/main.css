@@ -47,7 +47,7 @@ nav {
 nav a img {
   vertical-align: middle;
   width: 39px;
-  height: 19px;
+  height: auto;
 }
 
 nav a:nth-child(2) {
